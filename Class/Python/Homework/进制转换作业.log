@@ -1,0 +1,58 @@
+[wulin@wulin-manjaro ~]$ python
+Python 3.10.2 (main, Jan 15 2022, 19:56:27) [GCC 11.1.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> bin(23)
+'0b10111'
+>>> bin(96)
+'0b1100000'
+>>> bin(45)
+'0b101101'
+>>> bin(86)
+'0b1010110'
+>>> bin(77)
+'0b1001101'
+>>> bin(100)
+'0b1100100'
+>>> bin(10)
+'0b1010'
+>>> bin(5)
+'0b101'
+>>> print("10进制到8进制")
+10进制到8进制
+>>> oct(67)
+'0o103'
+>>> oct(14)
+'0o16'
+>>> oct(90)
+'0o132'
+>>> oct(46)
+'0o56'
+>>> oct(79)
+'0o117'
+>>> oct(20)
+'0o24'
+>>> oct(12)
+'0o14'
+>>> oct(19)
+'0o23'
+>>> print("10进制到16进制")
+10进制到16进制
+>>> hex(34)
+'0x22'
+>>> hex(27)
+'0x1b'
+>>> hex(99)
+'0x63'
+>>> hex(30)
+'0x1e'
+>>> hex(84)
+'0x54'
+>>> hex(32)
+'0x20'
+>>> hex(97)
+'0x61'
+>>> hex(59)
+'0x3b'
+>>> print("Done")
+Done
+>>> 
